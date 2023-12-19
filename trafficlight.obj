@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib traffic light.mtl
+mtllib trafficlight.mtl
 g default
 v 0.772700 23.219093 2.528013
 v 0.752320 23.325927 2.528013
